@@ -1,7 +1,7 @@
 # Smorebot
 
-Team 21, The Fake Housewifes
-Made by kaylz-d, jane-does-coding, tyler
+Team 21: The Fake Housewives
+Made by @kaylz-d, [@jane-does-coding](https://github.com/jane-does-coding), [@TylerRamsawak](https://github.com/tylerramsawak)
 
 <img width="1386" height="557" alt="Screenshot 2025-12-21 at 9 50 47 AM" src="https://github.com/user-attachments/assets/b6d88381-7702-4f35-90e4-e7770eb97da9" />
 
