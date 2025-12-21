@@ -14,3 +14,5 @@ Smorebot is a project which uses a Hugging Face Le Robot arm with AI and other H
 - Uaing heat gun, hear up the chocolate and the marshmallow, making it melt
 - Display temperture with a small screen
 
+
+Made by Tyler, Kaylee, and Jane
